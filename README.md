@@ -1,4 +1,4 @@
-# hello-world
-My first repo in GitHub, just try'in using it
+# hello-worl
+My first repo in GitHub, nope
 
 Hi humans! Well played but you all have failed this planet! You all have lost The Game!
